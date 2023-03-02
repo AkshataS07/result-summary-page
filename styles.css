@@ -1,0 +1,165 @@
+.flex {
+    font-size : 11px;
+    text-align : center;
+    background-color : white;
+    height : 300px;
+    display : flex;
+    justify-content : center;
+    align-items : center;
+    margin : 100px auto;
+    width : 400px;
+    box-shadow : 10px 10px 5px hsl(221 100% 96%);
+    border-radius : 30px;
+    padding : 30px;
+    }
+    p{
+    position : absolute;
+    left : 560px;
+    top : 120px;
+    font-weight : bold;
+    font-family : "Hanken Grotesk";
+    font-size : large;
+    }
+    div.first {
+    height : 40px;
+    background-color : hsl(1 91% 96%);
+    width : 170px;
+    position : absolute;
+    left : 550px;
+    border-radius : 5px;
+    top : 175px;
+    }
+    div.second {
+    height : 40px;
+    background-color : hsl(62 81% 95%);
+    width : 170px;
+    position : absolute;
+    left : 550px;
+    border-radius : 5px;
+    top : 225px;
+    }
+    .half {
+    background : linear-gradient(to top, hsl(241 81% 54%), 20%, hsl(252 100% 67%));
+    height : 300px;
+    width : 200px;
+    position : relative;
+    right : 100px;
+    border-radius : 30px;
+    padding : 30px;
+    }
+    div.third {
+    height : 40px;
+    background-color : hsl(113 54% 95%);
+    width : 170px;
+    position : absolute;
+    left : 550px;
+    border-radius : 5px;
+    top : 275px;
+    }
+    div.fourth {
+    height : 40px;
+    background-color : hsl(259 54% 92%);
+    width : 170px;
+    position : absolute;
+    left : 550px;
+    border-radius : 5px;
+    top : 325px;
+    }
+    div.continue {
+    height : 40px;
+    background-color : hsl(224 30% 27%);
+    width : 170px;
+    position : absolute;
+    left : 550px;
+    border-radius : 20px;
+    top : 380px;
+    }
+    p.new {
+    position : absolute;
+    color : white;
+    font-family : "Hanken Grotesk";
+    font-size : small;
+    left : 60px;
+    top : -2px;
+    }
+    .red {
+    width : 90%;
+    position : absolute;
+    left : 15px;
+    top : -3px;
+    font-size : small;
+    color : hsl(234 85% 45%);
+    }
+    .blue {
+    width : 90%;
+    position : absolute;
+    left : 15px;
+    top : -4px;
+    font-size : small;
+    color : hsl(0 100% 67%);
+    }
+    .yellow {
+    width : 90%;
+    position : absolute;
+    left : 15px;
+    top : -4px;
+    font-size : small;
+    color : hsl(39 100% 56%);
+    }
+    .green {
+    width : 90%;
+    position : absolute;
+    left : 15px;
+    top : -4px;
+    font-size : small;
+    color : hsl(166 100% 37%);
+    }
+    span {
+    color : grey;
+    }
+    .circle {
+    position : absolute;
+    width : 150px;
+    background : linear-gradient(to top, hsl(241 72% 46% / 0), 20%, hsl(256 72% 46% / 1));
+    height : 150px;
+    left : 50px;
+    top : 70px;
+    border-radius : 100px;
+    }
+    .number {
+    position : absolute;
+    left : 100px;
+    font-size : 3rem;
+    color : white;
+    top : 65px;
+    }
+    .nxt {
+    width : 30%;
+    position : absolute;
+    font-size : small;
+    top : 160px;
+    left : 90px;
+    }
+    .great {
+    width : 30%;
+    position : absolute;
+    font-size : 25px;
+    top : 200px;
+    left : 85px;
+    color : white;
+    }
+    .para {
+    width : 67%;
+    position : absolute;
+    font-size : small;
+    top : 260px;
+    left : 40px;
+    color : #cecece;
+    }
+    h1 {
+    position : absolute;
+    top : 5px;
+    left : 70px;
+    color : #cecece;
+    font-family : "Hanken Grotesk";
+    }
